@@ -1,6 +1,4 @@
-Hi, I'm Pirin!
-
-I'm a recent computer Science graduate and veteran with a primary focus on the Microsoft stack to build scalable solutions. I like to read, laugh, meme, and build things that helps others.
+Recent comp sci graduate and veteran with a primary focus on the Microsoft stack to build scalable solutions. I like to read, laugh, meme, and build things that helps others.
 <!-- Socials -->
   <h2>Socials</h2>
   <p align="left">
