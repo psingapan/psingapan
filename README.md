@@ -2,17 +2,11 @@
 
 Hi! 👋
 
-My name's Pirin and I'm a fresh software developer and recent computer science graduate. 
+My name's Pirin and I'm a software developer and a veteran. I like to build things that make others happy.
 
 
-- 🔭 Current projects: AZ-900 Exam, Event Website,
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+🔭 Current projects: AZ-900 Exam, Event Website,
+
 
 
 <!-- Socials -->
