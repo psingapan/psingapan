@@ -1,6 +1,6 @@
-### 👋
+### :information_source:
 
-Hi!
+Hi! 👋
 
 My name's Pirin and I'm a fresh software developer and recent computer science graduate. 
 
