@@ -1,6 +1,4 @@
-### :information_source:
-
-Hi! 👋
+Hi!
 
 My name's Pirin and I'm a software developer and a veteran. I like to build things that make others happy.
 
