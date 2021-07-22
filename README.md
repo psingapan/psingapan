@@ -10,7 +10,7 @@ My name's Pirin and I'm a software developer and a veteran. I like to build thin
   <a href="https://github.com/psingapan"><img src="https://img.icons8.com/doodle/96/000000/github--v1.png" title="github">
 </p>
     
-    <!-- Languages -->
+  <!-- Languages -->
   <h2>Languages</h2>    
   <p align="left">
    <img alt="c#" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" width="100" title="c#">
