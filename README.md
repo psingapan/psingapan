@@ -1,6 +1,6 @@
 Hi!
 
-My name's Pirin and I'm a software developer and a veteran. I like to build things that make others happy.
+My name's Pirin and I'm a software developer and a veteran! I enjoy challenges and like to build things that make others happy.
 
 <!-- Socials -->
   <h2>Socials</h2>
