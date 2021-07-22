@@ -1,7 +1,6 @@
-Hi!
+Hi, I'm Pirin!
 
-My name's Pirin and I'm a software developer and a veteran! I enjoy challenges and like to build things that make others happy.
-
+I'm a recent computer Science graduate and veteran with a primary focus on the Microsoft stack to build scalable solutions. I like to read, laugh, meme, and build things that helps others.
 <!-- Socials -->
   <h2>Socials</h2>
   <p align="left">
