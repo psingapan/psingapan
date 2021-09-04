@@ -22,7 +22,6 @@ Recent computer science graduate and veteran with a primary focus on the Microso
   <h2>Other</h2>
   <p align="left">
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="100px" title="jupyter"></span>
-  <span><img src="https://www.freeiconspng.com/uploads/sql-server-icon-8.png" width="100px" title="ssms"></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain.svg" width="100px" title="bootstrap"></span>
   <span><img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode"></span>
   <span><img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="100" title="sublime"></span>
