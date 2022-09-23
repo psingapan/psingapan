@@ -1,4 +1,4 @@
-Recent computer science graduate and veteran with a primary focus on the Microsoft stack to build scalable solutions. I like to read, laugh, meme, and build things that helps others.
+Veteran with a primary focus on the Microsoft stack to build scalable solutions. I like to read, laugh, meme, and build things that helps others.
 <!-- Socials -->
   <h2>Socials</h2>
   <p align="left">
